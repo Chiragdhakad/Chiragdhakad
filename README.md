@@ -1,24 +1,20 @@
 ## Hi there 👋
 
 
-# Hi ,I am Sumit Kumar! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+# Hi ,I am Chirag Dhakad! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 <br>
 
-![](https://komarev.com/ghpvc/?username=sumit18950&color=blue)<br>
+![](https://komarev.com/ghpvc/?username=Chiragdhakad&color=blue)<br>
 ### A passionate and enthusiast programmer<br>
 <div align="center">
   <img height="200" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width= "350" align=right />
 </div>
-- 👨‍🏭 I’m currently pursuing <b>B.Tech CSE From Lovely Professional University</b> <br>
-- 🏫 I’m currently learning <b>Data Structures And MERN Stack Development</b> <br>
-- 🙌 I’m looking to collaborate on <b>Web Projects</b> <br>
-- 🤔 I’m looking for help with <b>Model Training</b><br>
-- 🥅 Upcoming Goals: <b>Contribute to open source and learn DSA & Development</b> <br>
+- 👨‍🏭 I’m currently pursuing <b>B.Tech CSE from Lovely Professional University</b> <br>
 
 ### 🕵 Social Media Handles!<br>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/sumit-kumar-01dav" target="_blank">
+  <a href="https://www.linkedin.com/in/chiragdhakad/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="" target="_blank">
